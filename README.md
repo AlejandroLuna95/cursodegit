@@ -1,0 +1,2 @@
+# cursodegit
+Mi primer repositorio
